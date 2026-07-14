@@ -17,7 +17,7 @@ Select a branch to view its description, rules, mechanics, development status, a
 
 A dark science-fiction tabletop role-playing game focused on survival, faction conflicts, resource management, and the gradual loss of humanity.
 
-**Project status:** In development
+**Project status:** Ready to play
 
 [Open Hollow Abyss branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/hollow-abyss)
 
@@ -37,19 +37,31 @@ A dark fantasy tabletop role-playing game inspired by Japanese mythology, oni, y
 
 An original tabletop role-playing system with its own setting, mechanics, and character progression.
 
-**Project status:** In development
+**Project status:** Ready to play
 
 [Open SkyFall branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/skyfall)
 
 ---
 
-### SCP
+### SCP : Last Hope Gone
 
 A tabletop role-playing system inspired by anomalous objects, secret organizations, dangerous investigations, and containment operations.
 
-**Project status:** In development
+**Project status:** Ready to play
 
-[Open SCP branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/scp)
+[Open SCP branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/scp-ttrpg)
+
+---
+
+### Imperium : Protocol
+
+A tabletop role-playing system inspired by one of the Japanese manga and anime series "Psycho-Pass" with its own rules of the game.
+
+**Project status:** Ready to play
+
+[Open SCP branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/imperium-protocol)
+
+---
 
 ## About the Author
 

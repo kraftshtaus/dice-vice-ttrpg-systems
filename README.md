@@ -59,7 +59,7 @@ A tabletop role-playing system inspired by one of the Japanese manga and anime s
 
 **Project status:** Ready to play
 
-[Open SCP branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/imperium-protocol)
+[Open Imperium branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/imperium-protocol)
 
 ---
 

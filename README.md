@@ -1,91 +1,143 @@
-# Dice & Vice — TTRPG Systems
+<p align="center">
+  <img src="assets/hollow-abyss-cover.png" alt="Hollow Abyss Cover" width="850">
+</p>
 
-Welcome to the official repository of **Dice & Vice**, an independent tabletop role-playing game design project.
+<h1 align="center">Hollow Abyss</h1>
 
-This repository contains several original TTRPG systems created and developed by Viktor Kozorez.
+<p align="center">
+  <strong>A dark science-fiction TTRPG about survival at the edge of a dying universe.</strong>
+</p>
 
-## Repository Structure
-
-The `main` branch serves as the central navigation page.
-
-Each tabletop role-playing system is stored in a separate branch.  
-Select a branch to view its description, rules, mechanics, development status, and available materials.
-
-## Available Systems
-
-### Hollow Abyss
-
-A dark science-fiction tabletop role-playing game focused on survival, faction conflicts, resource management, and the gradual loss of humanity.
-
-**Project status:** Ready to play
-
-[Open Hollow Abyss branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/hollow-abyss)
+<p align="center">
+  Original TTRPG system created by Viktor Kozorez
+</p>
 
 ---
 
-### Blood of Oni
+## About
 
-A dark fantasy tabletop role-playing game inspired by Japanese mythology, oni, yokai, personal transformation, and supernatural consequences.
+**Hollow Abyss** is an original tabletop role-playing game set in a universe slowly approaching its end.
 
-**Project status:** In development
+Stars disappear, entire regions of space become uninhabitable, and the surviving Empires retreat toward the last stable worlds.
 
-[Open Blood of Oni branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/blood-of-oni)
+They bring their armies, technologies, religions, conflicts and ambitions with them.
 
----
+Players become explorers, mercenaries, engineers, criminals, diplomats, outcasts and other survivors trying to find their place among collapsing Empires, hostile worlds and unknown forms of life.
 
-### SkyFall
+There are no chosen heroes.
 
-An original tabletop role-playing system with its own setting, mechanics, and character progression.
-
-**Project status:** Ready to play
-
-[Open SkyFall branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/skyfall)
+Survival depends on what you know, what you possess, who you trust — and what you are willing to sacrifice.
 
 ---
 
-### SCP : Last Hope Gone
+## Core System
 
-A tabletop role-playing system inspired by anomalous objects, secret organizations, dangerous investigations, and containment operations.
+Hollow Abyss uses a **d12 dice-pool system**.
 
-**Project status:** Ready to play
+Characters are built around four primary attributes:
 
-[Open SCP branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/scp-ttrpg)
+- **Limit** — endurance, resilience and willpower;
+- **Empathy** — communication and understanding;
+- **Coordination** — movement, reaction and accuracy;
+- **Mastery** — knowledge, technology and professional skills.
 
----
-
-### Imperium : Protocol
-
-A tabletop role-playing system inspired by one of the Japanese manga and anime series "Psycho-Pass" with its own rules of the game.
-
-**Project status:** Ready to play
-
-[Open Imperium branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/imperium-protocol)
+Individual dice determine successes and failures, while the difficulty determines how many successes are required.
 
 ---
 
-## About the Author
+## What Defines Hollow Abyss
 
-My name is **Viktor Kozorez**.
+### Tactical Combat
 
-I am an independent TTRPG designer, game designer, worldbuilder, and developer.
+Weapons, armour, positioning and character abilities affect how encounters are approached.
 
-My work includes:
+Different weapon categories provide different tactical effects instead of functioning only as damage values.
 
-- tabletop role-playing system design;
-- gameplay mechanics;
-- character progression;
-- combat and resource systems;
-- narrative design;
-- worldbuilding;
-- technical writing;
-- digital tools for players and Game Masters.
+### Equipment
 
-## Current Development
+Armour protects individual body parts and equipment can be purchased, modified, damaged and improved.
 
-The systems presented in this repository are original works currently undergoing development, revision, and testing.
+Legal markets, black markets and independent modifications provide different ways of obtaining technology.
 
-New rules, documents, examples, and visual materials will be added over time.
+### Character Development
 
-## Contact
+Characters develop through levels, equipment and abilities acquired through the **Soul Shop**.
 
-For questions, collaboration, or professional inquiries, please use the contact information provided on my GitHub profile.
+Progression focuses on specialisation rather than allowing one character to eventually master everything.
+
+### Factions
+
+The universe is divided between numerous political powers, organisations and communities.
+
+Characters may belong to three broad groups:
+
+- **The Rejected**
+- **The Independents**
+- **The Imperials**
+
+Reputation and decisions influence available equipment, missions, information and allies.
+
+### Exploration
+
+Not every unknown world is empty.
+
+Creatures, abandoned structures, anomalies and remnants of previous civilisations can become threats, resources or discoveries.
+
+The Game Master can classify and quickly generate creatures using the game's threat-level system.
+
+---
+
+## The Game
+
+Hollow Abyss focuses on:
+
+- exploration;
+- survival;
+- tactical combat;
+- character specialisation;
+- equipment and modification;
+- faction conflicts;
+- dangerous creatures;
+- morally difficult decisions;
+- long-term consequences.
+
+Victory does not always mean killing the enemy.
+
+Sometimes surviving is enough.
+
+---
+
+## Development
+
+**Hollow Abyss is currently in active development.**
+
+Current development includes:
+
+- core rules;
+- character creation;
+- classes and subclasses;
+- combat;
+- weapons and armour;
+- abilities;
+- equipment progression;
+- factions;
+- creature system;
+- Game Master tools;
+- balance and playtesting.
+
+Rules and mechanics may change during development.
+
+---
+
+## Repository
+
+This branch contains materials related exclusively to **Hollow Abyss**.
+
+```text
+Hollow-Abyss/
+├── README.md
+├── README_RU.md
+├── LICENSE
+├── assets/
+├── documents/
+└── character-sheets/

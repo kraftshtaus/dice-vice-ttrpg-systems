@@ -1,199 +1,137 @@
-# Dice & Vice — TTRPG Systems
-
-**Dice & Vice** is an independent tabletop role-playing game design project created by **Viktor Kozorez (Kraftshaus)**.
-
-This repository serves as the central showcase for original tabletop RPG systems, experimental mechanics, settings, and game design projects developed under Dice & Vice.
-
-The projects presented here are in different stages of development — from early concepts and prototypes to playable systems.
-
-> Public materials are intentionally limited to project overviews, selected mechanics, and development information. Full design documents and internal playtest materials are not published here.
-
----
-
-## Systems
-
-### Hollow Abyss
-
-**Science Fiction · Survival · Horror**
-
-A science-fiction tabletop RPG focused on survival, exploration, resource management, faction conflicts, and the gradual deterioration of the characters.
-
-Players are placed in hostile environments where equipment, information, alliances, and even humanity itself can become limited resources.
-
-**Development status:** Playable / Active Development
-
-[View Hollow Abyss](#)
-
----
-
-### Descent: Last Journal
+# Descent: Last Journal
 
 **Dark Exploration · Survival · Mystery**
 
-A tabletop RPG focused on dangerous expeditions into a vast and anomalous Abyss.
+**Descent: Last Journal** is an original tabletop role-playing game developed under **Dice & Vice**.
 
-Players take the role of explorers and researchers descending into increasingly hostile layers in search of knowledge, artifacts, and answers about the nature of the Abyss.
+The game follows expeditions into a vast and dangerous Abyss where exploration, preparation, limited resources, and accumulated knowledge determine how far an expedition can descend — and whether its members will ever return.
 
-The system emphasizes preparation, exploration, resource management, discovery, and the lasting consequences of each expedition, where knowledge can be more valuable than victory in combat.
+Every journey into the depths may reveal something new while creating new risks for those who choose to continue.
 
-**Development status:** Active Development
-
----
-
-### Blood of Oni
-
-**Dark Fantasy · Japanese Mythology · Political Intrigue**
-
-A dark fantasy tabletop RPG inspired by Japanese mythology.
-
-The setting revolves around the fallen **Hinorami Empire**, political struggles between influential Houses, supernatural forces, spirits, yōkai, and Oni.
-
-The system explores character progression, martial disciplines, supernatural techniques, rituals, and the consequences of interacting with forces beyond ordinary human control.
-
-**Development status:** In Development
-
-[View Blood of Oni](#)
+> Descent: Last Journal is currently in active development.
+> Public materials represent only a limited overview of the project and do not contain the complete ruleset, expedition content, or internal playtest documentation.
 
 ---
 
-### ArcaNex
+## Overview
 
-**Science Fantasy · Exploration · Supernatural Phenomena**
+The Abyss is a place of discovery and uncertainty.
 
-A science-fantasy tabletop RPG centered around the interaction between people and fundamental anomalous forces known as Arcana.
+Its deeper regions contain unusual environments, unknown phenomena, forgotten traces of previous expeditions, and dangers that may not be understood when they are first encountered.
 
-Characters explore unusual regions, investigate anomalies, discover Sources and Elements, and use the Nexus to prepare and manipulate supernatural abilities while dealing with its limitations and instability.
+Players take the roles of explorers who descend into these regions in search of knowledge, discoveries, artifacts, and answers.
 
-The system emphasizes exploration, preparation, experimentation, character development, and the consequences of interacting with forces that can affect both the physical world and the characters themselves.
-
-**Development status:** Active Development
+Returning safely may be just as important as reaching the next layer.
 
 ---
 
-### Imperium Protocol
+## Core Experience
 
-**Science Fiction · Cosmic Decline · Survival**
+Descent: Last Journal focuses on several interconnected elements.
 
-A science-fiction tabletop RPG set in a universe that is slowly dying.
+### Expedition
 
-Stars disappear, natural laws begin to fail, and ancient civilizations are forced toward one of the last surviving regions of space.
+Each journey into the Abyss requires preparation.
 
-Empires, factions, cults, conspiracies, revolutions, and desperate survivors compete for influence and the possibility of preserving their people, culture, and future.
+Players must decide what they are willing to carry, what resources they may need, and how much risk they are prepared to accept.
 
-**Development status:** Playable
+### Exploration
 
-[View Imperium Protocol](#)
+The environment itself is one of the central elements of play.
 
----
+Routes, discoveries, unusual locations, and information gathered during previous expeditions may influence future journeys.
 
-### SCP TTRPG
+### Survival
 
-**Anomalies · Investigation · Containment**
+Resources are limited and mistakes can accumulate.
 
-An experimental fan-made tabletop RPG project centered around anomalous phenomena, dangerous investigations, containment operations, and survival.
+Continuing deeper may offer greater discoveries, but also increases the danger of being unable to return.
 
-**Development status:** Playable
+### Discovery
 
-[View SCP TTRPG](#)
+Knowledge is one of the most valuable rewards.
 
-> This project is a fan work and is not an official SCP Foundation product. Licensing and attribution information for SCP-related materials is provided separately within the project's repository.
+Understanding a phenomenon, finding a safer route, or recovering information from an earlier expedition may prove more useful than defeating an enemy.
 
----
+### Consequences
 
-### Skyfall
+An expedition does not exist in isolation.
 
-**Original TTRPG Project**
-
-An original tabletop RPG system currently undergoing development and restructuring.
-
-Detailed materials are intentionally not publicly available while the core design is still evolving.
-
-**Development status:** Playable
-
-[View Skyfall](#)
+What players discover, lose, change, or leave behind may influence later journeys.
 
 ---
 
-## Development Philosophy
+## The Journal
 
-Dice & Vice systems are developed as independent game-design projects rather than variations of a single universal ruleset.
+The **Journal** is one of the central thematic elements of the game.
 
-Each project may experiment with different approaches to:
+It represents accumulated knowledge about expeditions, locations, discoveries, dangers, and events within the Abyss.
 
-- character progression;
-- conflict resolution;
-- resource management;
-- narrative mechanics;
-- combat;
-- exploration;
-- character customization;
-- long-term consequences.
+Information recovered by one group may become essential to those who descend later.
 
-Mechanics may change substantially during development and playtesting.
+The complete mechanical role of the Journal remains part of the internal game documentation.
 
 ---
 
-## Public and Private Development
+## Gameplay Philosophy
 
-The repositories available publicly are intended primarily as **project showcases**.
+Descent: Last Journal is intended to make exploration itself meaningful.
+
+Players are not expected to confront every danger directly.
+
+A successful expedition may involve:
+
+- observing an unknown phenomenon;
+- discovering a safer route;
+- preserving limited resources;
+- recovering lost information;
+- deciding when to retreat;
+- preparing future expeditions;
+- accepting that some mysteries should remain unexplored for now.
+
+The decision to continue descending should always carry weight.
+
+---
+
+## Current Development
+
+**Status:** Active Development
+
+The core concept and expedition-focused structure are currently being developed and tested.
+
+Exploration mechanics, progression, resource systems, environments, and the structure of the Abyss may continue to change as development progresses.
+
+---
+
+## Public Repository
+
+This repository functions primarily as a public showcase.
 
 Public materials may include:
 
-- project descriptions;
-- selected mechanics;
-- development status;
-- visual materials;
-- examples of gameplay concepts;
-- limited rule previews.
+- general project information;
+- selected gameplay concepts;
+- development updates;
+- visual previews;
+- limited examples of expeditions;
+- selected setting information.
 
-Complete rulebooks, balance data, unreleased mechanics, internal design documents, playtest notes, and major setting materials may remain private during development.
-
----
-
-## Project Status
-
-The projects contained within Dice & Vice are personal independent works and may be developed at different speeds.
-
-A project may be marked as:
-
-**Concept** — early design and experimentation.
-
-**Prototype** — fundamental mechanics exist but remain subject to major changes.
-
-**In Development** — active system and content development.
-
-**Playable** — the system can currently be used for complete game sessions.
-
-**On Hold** — development is temporarily paused.
-
-**Archived** — active development has ended.
+Complete expedition structures, internal maps, balancing information, unreleased discoveries, scenario materials, and full rules remain private during development.
 
 ---
 
-## About Dice & Vice
+## Development
 
-Dice & Vice is focused on experimenting with tabletop RPG systems, game mechanics, worldbuilding, and player-driven storytelling.
+Descent: Last Journal is designed and maintained by:
 
-The goal is not to create a single universal system, but to explore how different mechanical structures can support different genres and player experiences.
+**Viktor Kozorez — Kraftshaus**
 
-Development is currently maintained independently by **Viktor Kozorez (Kraftshaus)**.
-
----
-
-## Copyright and Licensing
-
-Unless explicitly stated otherwise, original Dice & Vice game concepts, written materials, settings, terminology, artwork, and design documents are:
-
-**Copyright © 2026 Viktor Kozorez. All Rights Reserved.**
-
-Public availability of project materials does not automatically grant permission to reproduce, redistribute, publish, or commercially use complete Dice & Vice works.
-
-Software source code, third-party materials, and fan projects may use separate licenses where applicable. Refer to the individual repository for its specific licensing information.
+Part of the **Dice & Vice** tabletop RPG project.
 
 ---
 
-## Contact
+## Copyright
 
-GitHub: **Kraftshaus**
+Copyright © 2026 Viktor Kozorez. All Rights Reserved.
 
-Project: **Dice & Vice**
+See `COPYRIGHT.md` for additional information regarding original materials and game mechanics.

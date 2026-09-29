@@ -1,199 +1,147 @@
-# Dice & Vice — TTRPG Systems
+# ArcaNex
 
-**Dice & Vice** is an independent tabletop role-playing game design project created by **Viktor Kozorez (Kraftshaus)**.
+**Science Fantasy · Exploration · Anomalies**
 
-This repository serves as the central showcase for original tabletop RPG systems, experimental mechanics, settings, and game design projects developed under Dice & Vice.
+**ArcaNex** is an original tabletop role-playing game developed under **Dice & Vice**.
 
-The projects presented here are in different stages of development — from early concepts and prototypes to playable systems.
+The game combines science-fiction and fantasy elements in a world shaped by unusual forces known as Arcana.
 
-> Public materials are intentionally limited to project overviews, selected mechanics, and development information. Full design documents and internal playtest materials are not published here.
+Characters explore anomalous regions, investigate supernatural phenomena, discover unusual sources of power, and learn how to interact with forces that exist somewhere between physical reality and the unexplained.
 
----
-
-## Systems
-
-### Hollow Abyss
-
-**Science Fiction · Survival · Horror**
-
-A science-fiction tabletop RPG focused on survival, exploration, resource management, faction conflicts, and the gradual deterioration of the characters.
-
-Players are placed in hostile environments where equipment, information, alliances, and even humanity itself can become limited resources.
-
-**Development status:** Playable / Active Development
-
-[View Hollow Abyss](#)
+> ArcaNex is currently in active development.
+> Public materials represent only a limited overview of the project and do not contain the complete ruleset, internal design documentation, or playtest materials.
 
 ---
 
-### Descent: Last Journal
+## Overview
 
-**Dark Exploration · Survival · Mystery**
+The world of ArcaNex contains locations, phenomena, and entities affected by forces that do not completely follow ordinary physical rules.
 
-A tabletop RPG focused on dangerous expeditions into a vast and anomalous Abyss.
+Characters may encounter unstable regions, unusual sources of energy, dangerous anomalies, organizations attempting to understand or exploit them, and people whose lives have been permanently changed by these phenomena.
 
-Players take the role of explorers and researchers descending into increasingly hostile layers in search of knowledge, artifacts, and answers about the nature of the Abyss.
+Exploration and understanding are important parts of the game.
 
-The system emphasizes preparation, exploration, resource management, discovery, and the lasting consequences of each expedition, where knowledge can be more valuable than victory in combat.
-
-**Development status:** Active Development
+The unknown is not simply an enemy to defeat — it may become a resource, a danger, a mystery, or something the characters learn to interact with.
 
 ---
 
-### Blood of Oni
+## Core Experience
 
-**Dark Fantasy · Japanese Mythology · Political Intrigue**
+ArcaNex is built around several interconnected ideas.
 
-A dark fantasy tabletop RPG inspired by Japanese mythology.
+### Exploration
 
-The setting revolves around the fallen **Hinorami Empire**, political struggles between influential Houses, supernatural forces, spirits, yōkai, and Oni.
+Characters travel through unusual regions, investigate locations, discover anomalies, and uncover information about the world.
 
-The system explores character progression, martial disciplines, supernatural techniques, rituals, and the consequences of interacting with forces beyond ordinary human control.
+### Experimentation
 
-**Development status:** In Development
+Not every phenomenon has an immediately obvious solution.
 
-[View Blood of Oni](#)
+Players are encouraged to observe, experiment, and gradually understand how different forces interact.
 
----
+### Preparation
 
-### ArcaNex
+Knowledge and preparation can significantly change how characters approach dangerous situations.
 
-**Science Fantasy · Exploration · Supernatural Phenomena**
+Different circumstances may require different tools, resources, or abilities.
 
-A science-fantasy tabletop RPG centered around the interaction between people and fundamental anomalous forces known as Arcana.
+### Character Development
 
-Characters explore unusual regions, investigate anomalies, discover Sources and Elements, and use the Nexus to prepare and manipulate supernatural abilities while dealing with its limitations and instability.
+Characters gradually gain access to new possibilities and develop their preferred methods of interacting with the world.
 
-The system emphasizes exploration, preparation, experimentation, character development, and the consequences of interacting with forces that can affect both the physical world and the characters themselves.
+### Consequences
 
-**Development status:** Active Development
+Power is not always safe.
 
----
-
-### Imperium Protocol
-
-**Science Fiction · Cosmic Decline · Survival**
-
-A science-fiction tabletop RPG set in a universe that is slowly dying.
-
-Stars disappear, natural laws begin to fail, and ancient civilizations are forced toward one of the last surviving regions of space.
-
-Empires, factions, cults, conspiracies, revolutions, and desperate survivors compete for influence and the possibility of preserving their people, culture, and future.
-
-**Development status:** Playable
-
-[View Imperium Protocol](#)
+Interactions with unstable forces may create long-term consequences for characters, locations, and the surrounding world.
 
 ---
 
-### SCP TTRPG
+## The Nexus
 
-**Anomalies · Investigation · Containment**
+One of the central concepts of ArcaNex is the **Nexus**.
 
-An experimental fan-made tabletop RPG project centered around anomalous phenomena, dangerous investigations, containment operations, and survival.
+The Nexus acts as an interface between a character and the unusual forces encountered throughout the world.
 
-**Development status:** Playable
+It allows characters to prepare, manipulate, and use discovered elements in different situations.
 
-[View SCP TTRPG](#)
-
-> This project is a fan work and is not an official SCP Foundation product. Licensing and attribution information for SCP-related materials is provided separately within the project's repository.
+The complete rules governing the Nexus, its limitations, interactions, and progression remain part of the internal game documentation.
 
 ---
 
-### Skyfall
+## Arcana
 
-**Original TTRPG Project**
+Arcana represent one of the fundamental elements of the ArcaNex setting.
 
-An original tabletop RPG system currently undergoing development and restructuring.
+They are not treated purely as traditional magical schools or abstract character archetypes.
 
-Detailed materials are intentionally not publicly available while the core design is still evolving.
+Their nature is closely connected to the physical and anomalous structure of the world.
 
-**Development status:** Playable
+Different Arcana may influence how characters interact with environments, abilities, phenomena, and other entities.
 
-[View Skyfall](#)
+Detailed classifications and mechanical rules are intentionally not included in the public repository.
 
 ---
 
-## Development Philosophy
+## Gameplay Philosophy
 
-Dice & Vice systems are developed as independent game-design projects rather than variations of a single universal ruleset.
+ArcaNex is designed around player experimentation rather than predetermined solutions.
 
-Each project may experiment with different approaches to:
+A dangerous situation may potentially be approached through:
 
-- character progression;
-- conflict resolution;
-- resource management;
-- narrative mechanics;
-- combat;
 - exploration;
-- character customization;
-- long-term consequences.
+- investigation;
+- preparation;
+- environmental interaction;
+- cooperation;
+- unconventional use of abilities;
+- direct confrontation.
 
-Mechanics may change substantially during development and playtesting.
+The system is intended to reward players for understanding how the world works rather than relying exclusively on combat statistics.
 
 ---
 
-## Public and Private Development
+## Current Development
 
-The repositories available publicly are intended primarily as **project showcases**.
+**Status:** Active Development
+
+ArcaNex is currently undergoing continued development and playtesting.
+
+Core concepts and several major mechanics already exist, while progression, balancing, content, and individual subsystems continue to evolve.
+
+Some mechanics may change substantially during development.
+
+---
+
+## Public Repository
+
+This repository functions primarily as a public showcase.
 
 Public materials may include:
 
-- project descriptions;
-- selected mechanics;
-- development status;
+- project information;
+- selected gameplay concepts;
+- development updates;
 - visual materials;
-- examples of gameplay concepts;
-- limited rule previews.
+- limited mechanical previews;
+- examples of the setting.
 
-Complete rulebooks, balance data, unreleased mechanics, internal design documents, playtest notes, and major setting materials may remain private during development.
-
----
-
-## Project Status
-
-The projects contained within Dice & Vice are personal independent works and may be developed at different speeds.
-
-A project may be marked as:
-
-**Concept** — early design and experimentation.
-
-**Prototype** — fundamental mechanics exist but remain subject to major changes.
-
-**In Development** — active system and content development.
-
-**Playable** — the system can currently be used for complete game sessions.
-
-**On Hold** — development is temporarily paused.
-
-**Archived** — active development has ended.
+Complete rules, progression systems, balance data, internal documentation, and unreleased mechanics remain private during development.
 
 ---
 
-## About Dice & Vice
+## Development
 
-Dice & Vice is focused on experimenting with tabletop RPG systems, game mechanics, worldbuilding, and player-driven storytelling.
+ArcaNex is designed and maintained by:
 
-The goal is not to create a single universal system, but to explore how different mechanical structures can support different genres and player experiences.
+**Viktor Kozorez — Kraftshaus**
 
-Development is currently maintained independently by **Viktor Kozorez (Kraftshaus)**.
-
----
-
-## Copyright and Licensing
-
-Unless explicitly stated otherwise, original Dice & Vice game concepts, written materials, settings, terminology, artwork, and design documents are:
-
-**Copyright © 2026 Viktor Kozorez. All Rights Reserved.**
-
-Public availability of project materials does not automatically grant permission to reproduce, redistribute, publish, or commercially use complete Dice & Vice works.
-
-Software source code, third-party materials, and fan projects may use separate licenses where applicable. Refer to the individual repository for its specific licensing information.
+Part of the **Dice & Vice** tabletop RPG project.
 
 ---
 
-## Contact
+## Copyright
 
-GitHub: **Kraftshaus**
+Copyright © 2026 Viktor Kozorez. All Rights Reserved.
 
-Project: **Dice & Vice**
+See `COPYRIGHT.md` for additional information regarding original materials and game mechanics.

@@ -26,6 +26,20 @@ Players are placed in hostile environments where equipment, information, allianc
 
 ---
 
+### Descent: Last Journal
+
+**Dark Exploration · Survival · Mystery**
+
+A tabletop RPG focused on dangerous expeditions into a vast and anomalous Abyss.
+
+Players take the role of explorers and researchers descending into increasingly hostile layers in search of knowledge, artifacts, and answers about the nature of the Abyss.
+
+The system emphasizes preparation, exploration, resource management, discovery, and the lasting consequences of each expedition, where knowledge can be more valuable than victory in combat.
+
+**Development status:** Active Development
+
+---
+
 ### Blood of Oni
 
 **Dark Fantasy · Japanese Mythology · Political Intrigue**
@@ -42,6 +56,20 @@ The system explores character progression, martial disciplines, supernatural tec
 
 ---
 
+### ArcaNex
+
+**Science Fantasy · Exploration · Supernatural Phenomena**
+
+A science-fantasy tabletop RPG centered around the interaction between people and fundamental anomalous forces known as Arcana.
+
+Characters explore unusual regions, investigate anomalies, discover Sources and Elements, and use the Nexus to prepare and manipulate supernatural abilities while dealing with its limitations and instability.
+
+The system emphasizes exploration, preparation, experimentation, character development, and the consequences of interacting with forces that can affect both the physical world and the characters themselves.
+
+**Development status:** Active Development
+
+---
+
 ### Imperium Protocol
 
 **Science Fiction · Cosmic Decline · Survival**
@@ -52,7 +80,7 @@ Stars disappear, natural laws begin to fail, and ancient civilizations are force
 
 Empires, factions, cults, conspiracies, revolutions, and desperate survivors compete for influence and the possibility of preserving their people, culture, and future.
 
-**Development status:** In Development
+**Development status:** Playable
 
 [View Imperium Protocol](#)
 
@@ -64,7 +92,7 @@ Empires, factions, cults, conspiracies, revolutions, and desperate survivors com
 
 An experimental fan-made tabletop RPG project centered around anomalous phenomena, dangerous investigations, containment operations, and survival.
 
-**Development status:** Prototype / In Development
+**Development status:** Playable
 
 [View SCP TTRPG](#)
 
@@ -80,7 +108,7 @@ An original tabletop RPG system currently undergoing development and restructuri
 
 Detailed materials are intentionally not publicly available while the core design is still evolving.
 
-**Development status:** In Development
+**Development status:** Playable
 
 [View Skyfall](#)
 

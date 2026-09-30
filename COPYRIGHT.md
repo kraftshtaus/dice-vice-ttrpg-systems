@@ -2,7 +2,7 @@
 
 Copyright © 2026 Viktor Kozorez. All Rights Reserved.
 
-All original ArcaNex written materials, setting materials,
+All original "ArcaNex" written materials, setting materials,
 game design documentation, terminology, artwork, and other original
 content are protected by copyright.
 

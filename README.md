@@ -1,141 +1,71 @@
 # Imperium Protocol
 
-**Science Fiction · Cosmic Decline · Political Conflict · Survival**
+**Dystopian Science Fiction · Detective · Psychological Thriller**
 
 **Imperium Protocol** is an original tabletop role-playing game developed under **Dice & Vice**.
 
-The game takes place in a universe approaching irreversible collapse.
+Set in a highly controlled technological society, the game follows individuals working within — or against — systems designed to monitor human behavior, evaluate psychological stability, and prevent threats before they emerge.
 
-Stars disappear, stable regions of space become increasingly rare, and civilizations are forced to compete for access to the remaining territories capable of supporting life.
-
-Players exist within a world shaped by collapsing empires, political factions, military powers, religious movements, conspiracies, and societies attempting to survive the end of an era.
+Players investigate crimes, anomalies, political conflicts, and situations where the boundary between public safety and personal freedom becomes increasingly difficult to define.
 
 > Imperium Protocol is currently in active development.
-> Public materials represent only a limited overview of the project and do not contain the complete ruleset, setting documentation, or internal playtest materials.
+> Public materials contain only a limited overview of the project and do not include the complete ruleset or internal design documentation.
 
 ---
 
 ## Overview
 
-The universe of Imperium Protocol is slowly becoming less habitable.
+Technology has made society safer, more predictable, and more controllable.
 
-Entire regions of space may become inaccessible, unstable, or incapable of supporting civilization.
+Behavior can be analyzed.
+Psychological instability can be measured.
+Potential threats can be identified before a crime is committed.
 
-The resulting migration creates conflict on a massive scale.
+But every system has limitations.
 
-Old powers attempt to preserve their influence.
-
-New factions emerge from the collapse.
-
-Religious and ideological movements search for explanations.
-
-Some civilizations attempt cooperation, while others see the crisis as an opportunity to expand.
-
-Characters operate inside this unstable environment and may become involved in conflicts whose consequences extend far beyond a single mission.
+Characters operate inside a world where investigations may reveal not only criminals, but failures in the structures responsible for defining what is normal, dangerous, or acceptable.
 
 ---
 
 ## Core Experience
 
-Imperium Protocol is built around several interconnected elements.
+### Investigation
 
-### Survival
+Characters investigate crimes, unusual incidents, conspiracies, and individuals considered potential threats.
 
-Survival applies not only to individuals, but potentially to entire communities, factions, and civilizations.
+### Psychological Pressure
 
-Resources, infrastructure, information, territory, and political stability may all become increasingly valuable.
+Stress, trauma, difficult decisions, and exposure to violence may influence a character over time.
 
-### Political Conflict
+### Social Control
 
-Different groups compete for influence, territory, technology, and access to increasingly limited opportunities.
+Institutions use advanced technology and behavioral analysis to maintain stability and evaluate individuals.
 
-Characters may find themselves working with, against, or between these factions.
+### Moral Conflict
 
-### Exploration
+Following the law and doing the right thing are not always the same decision.
 
-The changing universe creates unexplored regions, abandoned structures, lost colonies, damaged installations, and areas affected by phenomena that are not completely understood.
+### Technology
 
-Exploration may reveal valuable resources, information, or new dangers.
-
-### Factions
-
-Organizations and political groups form a major part of the setting.
-
-Their goals may overlap, conflict, or change as the larger crisis develops.
-
-Relationships with these groups may influence the opportunities available to the characters.
-
-### Consequences
-
-Actions may alter relationships, political situations, access to resources, and the future of larger groups.
-
-Success in one area may create problems somewhere else.
-
----
-
-## A Dying Universe
-
-The gradual decline of the universe forms the central background of Imperium Protocol.
-
-The crisis is not treated simply as a distant historical event.
-
-It continuously influences migration, politics, economics, warfare, culture, and the decisions made by individuals and governments.
-
-Different civilizations interpret the decline in different ways.
-
-Some attempt to understand it.
-
-Some attempt to escape it.
-
-Some search for ways to delay it.
-
-Others believe survival requires controlling what remains.
-
-The complete nature of the crisis and its underlying causes remain part of the internal setting documentation.
-
----
-
-## Civilizations and Factions
-
-Imperium Protocol is designed around a world containing multiple competing powers.
-
-These may include:
-
-- political states;
-- military organizations;
-- scientific institutions;
-- religious movements;
-- corporations;
-- revolutionary groups;
-- independent colonies;
-- secretive organizations.
-
-Characters may develop relationships with several groups simultaneously.
-
-Loyalty, cooperation, rivalry, and conflicting obligations can become important elements of play.
-
-Detailed faction structures and unreleased setting information remain private during development.
+Surveillance systems, cybernetic infrastructure, specialized weapons, and digital environments form an important part of everyday life.
 
 ---
 
 ## Gameplay Philosophy
 
-Imperium Protocol is intended to combine personal-scale decisions with larger political and societal consequences.
+Imperium Protocol is primarily designed around investigation, difficult decisions, and psychological pressure rather than constant combat.
 
-A mission may appear relatively small while still affecting the interests of several larger groups.
+Players may need to:
 
-Players may approach situations through:
+- investigate evidence;
+- interrogate suspects;
+- interact with digital systems;
+- evaluate potential threats;
+- navigate institutional rules;
+- deal with psychological pressure;
+- decide whether following protocol is actually the correct choice.
 
-- diplomacy;
-- investigation;
-- political influence;
-- exploration;
-- technological solutions;
-- infiltration;
-- cooperation;
-- direct confrontation.
-
-The game is intended to make the surrounding political situation part of the gameplay rather than merely background lore.
+The system is intended to place characters between personal judgment and the authority of the structures they serve.
 
 ---
 
@@ -143,43 +73,8 @@ The game is intended to make the surrounding political situation part of the gam
 
 **Status:** Active Development
 
-Imperium Protocol is currently undergoing continued development.
+Imperium Protocol is currently undergoing continued development and restructuring.
 
-The setting, factions, survival systems, character progression, political structures, and individual gameplay mechanics are being expanded and refined.
+Investigation mechanics, psychological systems, character progression, social structures, and technological elements continue to evolve through development and testing.
 
-Major mechanics, terminology, balance, and setting elements may change during development and playtesting.
-
----
-
-## Public Repository
-
-This repository functions primarily as a public showcase.
-
-Public materials may include:
-
-- general project information;
-- selected setting concepts;
-- development updates;
-- limited gameplay information;
-- visual materials;
-- selected worldbuilding previews.
-
-Complete rules, faction structures, progression systems, balance information, unreleased lore, scenario materials, and internal design documentation remain private during development.
-
----
-
-## Development
-
-Imperium Protocol is designed and maintained by:
-
-**Viktor Kozorez — Kraftshaus**
-
-Part of the **Dice & Vice** tabletop RPG project.
-
----
-
-## Copyright
-
-Copyright © 2026 Viktor Kozorez. All Rights Reserved.
-
-See `COPYRIGHT.md` for additional information regarding original materials and game mechanics.
+Detailed mechanics and internal setting information remain private.

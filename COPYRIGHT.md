@@ -2,7 +2,7 @@
 
 Copyright © 2026 Viktor Kozorez. All Rights Reserved.
 
-All original Hollow Abyss written materials, setting materials,
+All original "Hollow Abyss : Rebirth" written materials, setting materials,
 game design documentation, terminology, artwork, and other original
 content are protected by copyright.
 
@@ -14,7 +14,7 @@ permission from the copyright holder.
 
 Copyright protection applies to the original text, presentation,
 artwork, setting materials, and other expressive elements of
-Hollow Abyss.
+"Hollow Abyss : Rebirth".
 
 No exclusive claim is made over abstract game mechanics,
 methods of play, mathematical systems, general concepts,

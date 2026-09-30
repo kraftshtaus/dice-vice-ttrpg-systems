@@ -1,91 +1,234 @@
-# Dice & Vice — TTRPG Systems
+# SCP TTRPG
 
-Welcome to the official repository of **Dice & Vice**, an independent tabletop role-playing game design project.
+**Anomalous Horror · Investigation · Containment · Survival**
 
-This repository contains several original TTRPG systems created and developed by Viktor Kozorez.
+**SCP TTRPG** is an unofficial fan-made tabletop role-playing game project
+based on the collaborative **SCP Foundation** universe.
 
-## Repository Structure
+The game focuses on investigation, anomalous phenomena, containment operations,
+dangerous expeditions, survival, and the consequences of encountering entities
+and events that do not follow conventional rules.
 
-The `main` branch serves as the central navigation page.
+Players may take the roles of Foundation personnel, researchers, field operatives,
+security staff, D-Class personnel, or other individuals involved in anomalous incidents.
 
-Each tabletop role-playing system is stored in a separate branch.  
-Select a branch to view its description, rules, mechanics, development status, and available materials.
-
-## Available Systems
-
-### Hollow Abyss
-
-A dark science-fiction tabletop role-playing game focused on survival, faction conflicts, resource management, and the gradual loss of humanity.
-
-**Project status:** Ready to play
-
-[Open Hollow Abyss branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/hollow-abyss)
+> SCP TTRPG is currently in active development.
+> Public materials represent only a limited overview of the project and do not
+> contain the complete ruleset or internal playtest documentation.
 
 ---
 
-### Blood of Oni
+## Overview
 
-A dark fantasy tabletop role-playing game inspired by Japanese mythology, oni, yokai, personal transformation, and supernatural consequences.
+The world contains objects, entities, locations, and phenomena that cannot be
+fully explained through conventional science.
 
-**Project status:** In development
+Organizations attempt to study, classify, contain, exploit, or survive these anomalies.
 
-[Open Blood of Oni branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/blood-of-oni)
+Characters may participate in:
 
----
+- investigations;
+- containment operations;
+- recovery missions;
+- research expeditions;
+- facility emergencies;
+- anomalous incidents;
+- exploration of dangerous locations.
 
-### SkyFall
-
-An original tabletop role-playing system with its own setting, mechanics, and character progression.
-
-**Project status:** Ready to play
-
-[Open SkyFall branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/skyfall)
-
----
-
-### SCP : Last Hope Gone
-
-A tabletop role-playing system inspired by anomalous objects, secret organizations, dangerous investigations, and containment operations.
-
-**Project status:** Ready to play
-
-[Open SCP branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/scp-ttrpg)
+Information is often incomplete, and understanding the anomaly may be more
+important than defeating it.
 
 ---
 
-### Imperium : Protocol
+## Core Experience
 
-A tabletop role-playing system inspired by one of the Japanese manga and anime series "Psycho-Pass" with its own rules of the game.
+### Investigation
 
-**Project status:** Ready to play
+Players gather evidence, analyze unusual events, question witnesses,
+study documents, and attempt to understand anomalous phenomena.
 
-[Open Imperium branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/imperium-protocol)
+### Containment
+
+Many anomalies cannot simply be destroyed.
+
+Characters may need to discover specific conditions, behaviors, weaknesses,
+or procedures in order to safely contain them.
+
+### Exploration
+
+Missions may lead characters into abandoned facilities, anomalous zones,
+research complexes, isolated locations, or environments affected by phenomena
+that do not behave according to ordinary physical rules.
+
+### Survival
+
+Direct confrontation may be extremely dangerous.
+
+Preparation, equipment, information, cooperation, and careful decision-making
+can be more important than combat strength.
+
+### Uncertainty
+
+Players are not expected to understand every anomaly immediately.
+
+Some encounters are designed around observation, experimentation, and gradually
+discovering how a phenomenon behaves.
+
+### Consequences
+
+Failed containment, incomplete information, damaged facilities, lost personnel,
+or poor decisions may create consequences that continue beyond a single encounter.
 
 ---
 
-## About the Author
+## Character Roles
 
-My name is **Viktor Kozorez**.
+Characters may represent different positions and responsibilities within the setting.
 
-I am an independent TTRPG designer, game designer, worldbuilder, and developer.
+Possible roles may include:
 
-My work includes:
+- researchers;
+- scientists;
+- security personnel;
+- field operatives;
+- containment specialists;
+- medical personnel;
+- technical staff;
+- D-Class personnel;
+- other individuals connected to anomalous events.
 
-- tabletop role-playing system design;
-- gameplay mechanics;
-- character progression;
-- combat and resource systems;
-- narrative design;
-- worldbuilding;
-- technical writing;
-- digital tools for players and Game Masters.
+Different roles may approach the same situation in very different ways.
+
+Detailed character creation, progression systems, abilities, and mechanical
+rules remain part of the internal project documentation.
+
+---
+
+## Anomalous Abilities
+
+Some characters may interact with or be affected by anomalous phenomena.
+
+Certain gameplay elements are inspired by or adapted from specific SCP works.
+
+These adaptations may influence character abilities, unusual traits,
+conditions, or other gameplay mechanics.
+
+Specific SCP works referenced or adapted by the project are listed in:
+
+**`ATTRIBUTION.md`**
+
+---
+
+## Gameplay Philosophy
+
+SCP TTRPG emphasizes investigation, uncertainty, and problem solving alongside
+traditional tabletop role-playing mechanics.
+
+Not every anomaly functions as a conventional enemy.
+
+A situation may require:
+
+- observation;
+- research;
+- experimentation;
+- containment;
+- negotiation;
+- evacuation;
+- environmental interaction;
+- cooperation;
+- direct confrontation.
+
+The nature of an anomaly may fundamentally change the rules of an encounter.
+
+Players are encouraged to understand what they are dealing with before deciding
+how to respond.
+
+---
+
+## Game Master
+
+The Game Master is not limited to a fixed collection of anomalies.
+
+Existing SCP works may be adapted for gameplay when appropriate, while original
+anomalous phenomena may also be created specifically for an individual campaign.
+
+This allows campaigns to focus on different styles of play, including:
+
+- investigation;
+- survival horror;
+- containment;
+- exploration;
+- facility emergencies;
+- field operations;
+- psychological tension.
+
+When specific SCP works are used or adapted, their respective attribution
+requirements must be followed.
+
+---
 
 ## Current Development
 
-The systems presented in this repository are original works currently undergoing development, revision, and testing.
+**Status:** Active Development / Experimental
 
-New rules, documents, examples, and visual materials will be added over time.
+SCP TTRPG is currently undergoing continued development.
 
-## Contact
+Character systems, anomalous abilities, investigation mechanics, containment
+systems, progression, balance, and Game Master tools continue to evolve.
 
-For questions, collaboration, or professional inquiries, please use the contact information provided on my GitHub profile.
+Some mechanics may change substantially during development and testing.
+
+The complete working documents are not currently published in this repository.
+
+---
+
+## Public Repository
+
+This repository functions primarily as a public showcase.
+
+Public materials may include:
+
+- general project information;
+- selected gameplay concepts;
+- development updates;
+- limited mechanical previews;
+- licensing information;
+- attribution for referenced SCP works.
+
+Complete rules, internal playtest materials, scenario structures, balance data,
+and unreleased content remain private during development.
+
+---
+
+## Licensing and Attribution
+
+This project is an unofficial derivative work based on the collaborative
+SCP Foundation universe.
+
+SCP-derived content within this project is distributed under the
+**Creative Commons Attribution-ShareAlike 3.0 Unported License
+(CC BY-SA 3.0)**.
+
+For detailed licensing information, see:
+
+**`LICENSE.md`**
+
+For specific SCP works referenced or adapted by this project, see:
+
+**`ATTRIBUTION.md`**
+
+SCP Foundation Wiki:  
+https://scp-wiki.wikidot.com/
+
+This project is not affiliated with, endorsed by, or officially associated
+with the SCP Foundation Wiki or its staff.
+
+---
+
+## Development
+
+This fan-made tabletop adaptation is developed by:
+
+**Viktor Kozorez — Kraftshaus**
+
+as part of the **Dice & Vice** tabletop RPG project.

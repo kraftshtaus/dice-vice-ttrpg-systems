@@ -1,91 +1,185 @@
-# Dice & Vice — TTRPG Systems
+# Imperium Protocol
 
-Welcome to the official repository of **Dice & Vice**, an independent tabletop role-playing game design project.
+**Science Fiction · Cosmic Decline · Political Conflict · Survival**
 
-This repository contains several original TTRPG systems created and developed by Viktor Kozorez.
+**Imperium Protocol** is an original tabletop role-playing game developed under **Dice & Vice**.
 
-## Repository Structure
+The game takes place in a universe approaching irreversible collapse.
 
-The `main` branch serves as the central navigation page.
+Stars disappear, stable regions of space become increasingly rare, and civilizations are forced to compete for access to the remaining territories capable of supporting life.
 
-Each tabletop role-playing system is stored in a separate branch.  
-Select a branch to view its description, rules, mechanics, development status, and available materials.
+Players exist within a world shaped by collapsing empires, political factions, military powers, religious movements, conspiracies, and societies attempting to survive the end of an era.
 
-## Available Systems
-
-### Hollow Abyss
-
-A dark science-fiction tabletop role-playing game focused on survival, faction conflicts, resource management, and the gradual loss of humanity.
-
-**Project status:** Ready to play
-
-[Open Hollow Abyss branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/hollow-abyss)
+> Imperium Protocol is currently in active development.
+> Public materials represent only a limited overview of the project and do not contain the complete ruleset, setting documentation, or internal playtest materials.
 
 ---
 
-### Blood of Oni
+## Overview
 
-A dark fantasy tabletop role-playing game inspired by Japanese mythology, oni, yokai, personal transformation, and supernatural consequences.
+The universe of Imperium Protocol is slowly becoming less habitable.
 
-**Project status:** In development
+Entire regions of space may become inaccessible, unstable, or incapable of supporting civilization.
 
-[Open Blood of Oni branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/blood-of-oni)
+The resulting migration creates conflict on a massive scale.
 
----
+Old powers attempt to preserve their influence.
 
-### SkyFall
+New factions emerge from the collapse.
 
-An original tabletop role-playing system with its own setting, mechanics, and character progression.
+Religious and ideological movements search for explanations.
 
-**Project status:** Ready to play
+Some civilizations attempt cooperation, while others see the crisis as an opportunity to expand.
 
-[Open SkyFall branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/skyfall)
-
----
-
-### SCP : Last Hope Gone
-
-A tabletop role-playing system inspired by anomalous objects, secret organizations, dangerous investigations, and containment operations.
-
-**Project status:** Ready to play
-
-[Open SCP branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/scp-ttrpg)
+Characters operate inside this unstable environment and may become involved in conflicts whose consequences extend far beyond a single mission.
 
 ---
 
-### Imperium : Protocol
+## Core Experience
 
-A tabletop role-playing system inspired by one of the Japanese manga and anime series "Psycho-Pass" with its own rules of the game.
+Imperium Protocol is built around several interconnected elements.
 
-**Project status:** Ready to play
+### Survival
 
-[Open Imperium branch](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/imperium-protocol)
+Survival applies not only to individuals, but potentially to entire communities, factions, and civilizations.
+
+Resources, infrastructure, information, territory, and political stability may all become increasingly valuable.
+
+### Political Conflict
+
+Different groups compete for influence, territory, technology, and access to increasingly limited opportunities.
+
+Characters may find themselves working with, against, or between these factions.
+
+### Exploration
+
+The changing universe creates unexplored regions, abandoned structures, lost colonies, damaged installations, and areas affected by phenomena that are not completely understood.
+
+Exploration may reveal valuable resources, information, or new dangers.
+
+### Factions
+
+Organizations and political groups form a major part of the setting.
+
+Their goals may overlap, conflict, or change as the larger crisis develops.
+
+Relationships with these groups may influence the opportunities available to the characters.
+
+### Consequences
+
+Actions may alter relationships, political situations, access to resources, and the future of larger groups.
+
+Success in one area may create problems somewhere else.
 
 ---
 
-## About the Author
+## A Dying Universe
 
-My name is **Viktor Kozorez**.
+The gradual decline of the universe forms the central background of Imperium Protocol.
 
-I am an independent TTRPG designer, game designer, worldbuilder, and developer.
+The crisis is not treated simply as a distant historical event.
 
-My work includes:
+It continuously influences migration, politics, economics, warfare, culture, and the decisions made by individuals and governments.
 
-- tabletop role-playing system design;
-- gameplay mechanics;
-- character progression;
-- combat and resource systems;
-- narrative design;
-- worldbuilding;
-- technical writing;
-- digital tools for players and Game Masters.
+Different civilizations interpret the decline in different ways.
+
+Some attempt to understand it.
+
+Some attempt to escape it.
+
+Some search for ways to delay it.
+
+Others believe survival requires controlling what remains.
+
+The complete nature of the crisis and its underlying causes remain part of the internal setting documentation.
+
+---
+
+## Civilizations and Factions
+
+Imperium Protocol is designed around a world containing multiple competing powers.
+
+These may include:
+
+- political states;
+- military organizations;
+- scientific institutions;
+- religious movements;
+- corporations;
+- revolutionary groups;
+- independent colonies;
+- secretive organizations.
+
+Characters may develop relationships with several groups simultaneously.
+
+Loyalty, cooperation, rivalry, and conflicting obligations can become important elements of play.
+
+Detailed faction structures and unreleased setting information remain private during development.
+
+---
+
+## Gameplay Philosophy
+
+Imperium Protocol is intended to combine personal-scale decisions with larger political and societal consequences.
+
+A mission may appear relatively small while still affecting the interests of several larger groups.
+
+Players may approach situations through:
+
+- diplomacy;
+- investigation;
+- political influence;
+- exploration;
+- technological solutions;
+- infiltration;
+- cooperation;
+- direct confrontation.
+
+The game is intended to make the surrounding political situation part of the gameplay rather than merely background lore.
+
+---
 
 ## Current Development
 
-The systems presented in this repository are original works currently undergoing development, revision, and testing.
+**Status:** Active Development
 
-New rules, documents, examples, and visual materials will be added over time.
+Imperium Protocol is currently undergoing continued development.
 
-## Contact
+The setting, factions, survival systems, character progression, political structures, and individual gameplay mechanics are being expanded and refined.
 
-For questions, collaboration, or professional inquiries, please use the contact information provided on my GitHub profile.
+Major mechanics, terminology, balance, and setting elements may change during development and playtesting.
+
+---
+
+## Public Repository
+
+This repository functions primarily as a public showcase.
+
+Public materials may include:
+
+- general project information;
+- selected setting concepts;
+- development updates;
+- limited gameplay information;
+- visual materials;
+- selected worldbuilding previews.
+
+Complete rules, faction structures, progression systems, balance information, unreleased lore, scenario materials, and internal design documentation remain private during development.
+
+---
+
+## Development
+
+Imperium Protocol is designed and maintained by:
+
+**Viktor Kozorez — Kraftshaus**
+
+Part of the **Dice & Vice** tabletop RPG project.
+
+---
+
+## Copyright
+
+Copyright © 2026 Viktor Kozorez. All Rights Reserved.
+
+See `COPYRIGHT.md` for additional information regarding original materials and game mechanics.

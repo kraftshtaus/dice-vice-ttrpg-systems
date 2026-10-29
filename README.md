@@ -1,199 +1,43 @@
 # Dice & Vice — TTRPG Systems
 
-**Dice & Vice** is an independent tabletop role-playing game design project created by **Viktor Kozorez (Kraftshaus)**.
+**Independent Tabletop RPG Design Portfolio**
 
-This repository serves as the central showcase for original tabletop RPG systems, experimental mechanics, settings, and game design projects developed under Dice & Vice.
+Dice & Vice is a collection of original tabletop role-playing game systems developed by **Viktors Kozorezs (Kraftshtaus)**.
 
-The projects presented here are in different stages of development — from early concepts and prototypes to playable systems.
+Each project explores different approaches to game mechanics, player progression, worldbuilding, and decision-making.
 
-> Public materials are intentionally limited to project overviews, selected mechanics, and development information. Full design documents and internal playtest materials are not published here.
+## Projects
 
----
+| System | Genre |
+|---|---|
+| [Hollow Abyss](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/hollow-abyss) | Science Fantasy / Survival Horror |
+| [Descent: Last Journal](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/descent-last-journal) | Dark Exploration / Survival |
+| [Blood of Oni](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/blood-of-oni) | Japanese Mythology / Dark Fantasy |
+| [ArcaNex](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/arcanex) | Science Fantasy / Exploration |
+| [Imperium Protocol](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/imperium-protocoll) | Science Fiction / Survival |
+| [SCP-TTRPG](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/scp-ttrpg) | Anomalies / Investigation |
+| [Skyfall](https://github.com/kraftshtaus/dice-vice-ttrpg-systems/tree/skyfall) | Post-Apocalyptic Science Fantasy |
 
-## Systems
+Each branch contains a separate game-design project.
 
-### Hollow Abyss
+## Design Focus
 
-**Science Fiction · Survival · Horror**
+- Custom dice mechanics and probability systems
+- Character creation and progression
+- Combat mechanics and resource management
+- Rulebook design and technical documentation
+- Worldbuilding and narrative systems
 
-A science-fiction tabletop RPG focused on survival, exploration, resource management, faction conflicts, and the gradual deterioration of the characters.
+## Development Status
 
-Players are placed in hostile environments where equipment, information, alliances, and even humanity itself can become limited resources.
+Projects are at different stages of development, ranging from experimental concepts to playable systems.
 
-**Development status:** Playable / Active Development
+Rules and mechanics may change through iteration and playtesting.
 
-[View Hollow Abyss](#)
+## Author
 
----
+**Viktors Kozorezs**
 
-### Descent: Last Journal
+GitHub: [Kraftshtaus](https://github.com/kraftshtaus)
 
-**Dark Exploration · Survival · Mystery**
-
-A tabletop RPG focused on dangerous expeditions into a vast and anomalous Abyss.
-
-Players take the role of explorers and researchers descending into increasingly hostile layers in search of knowledge, artifacts, and answers about the nature of the Abyss.
-
-The system emphasizes preparation, exploration, resource management, discovery, and the lasting consequences of each expedition, where knowledge can be more valuable than victory in combat.
-
-**Development status:** Active Development
-
----
-
-### Blood of Oni
-
-**Dark Fantasy · Japanese Mythology · Political Intrigue**
-
-A dark fantasy tabletop RPG inspired by Japanese mythology.
-
-The setting revolves around the fallen **Hinorami Empire**, political struggles between influential Houses, supernatural forces, spirits, yōkai, and Oni.
-
-The system explores character progression, martial disciplines, supernatural techniques, rituals, and the consequences of interacting with forces beyond ordinary human control.
-
-**Development status:** In Development
-
-[View Blood of Oni](#)
-
----
-
-### ArcaNex
-
-**Science Fantasy · Exploration · Supernatural Phenomena**
-
-A science-fantasy tabletop RPG centered around the interaction between people and fundamental anomalous forces known as Arcana.
-
-Characters explore unusual regions, investigate anomalies, discover Sources and Elements, and use the Nexus to prepare and manipulate supernatural abilities while dealing with its limitations and instability.
-
-The system emphasizes exploration, preparation, experimentation, character development, and the consequences of interacting with forces that can affect both the physical world and the characters themselves.
-
-**Development status:** Active Development
-
----
-
-### Imperium Protocol
-
-**Science Fiction · Cosmic Decline · Survival**
-
-A science-fiction tabletop RPG set in a universe that is slowly dying.
-
-Stars disappear, natural laws begin to fail, and ancient civilizations are forced toward one of the last surviving regions of space.
-
-Empires, factions, cults, conspiracies, revolutions, and desperate survivors compete for influence and the possibility of preserving their people, culture, and future.
-
-**Development status:** Playable
-
-[View Imperium Protocol](#)
-
----
-
-### SCP TTRPG
-
-**Anomalies · Investigation · Containment**
-
-An experimental fan-made tabletop RPG project centered around anomalous phenomena, dangerous investigations, containment operations, and survival.
-
-**Development status:** Playable
-
-[View SCP TTRPG](#)
-
-> This project is a fan work and is not an official SCP Foundation product. Licensing and attribution information for SCP-related materials is provided separately within the project's repository.
-
----
-
-### Skyfall
-
-**Original TTRPG Project**
-
-An original tabletop RPG system currently undergoing development and restructuring.
-
-Detailed materials are intentionally not publicly available while the core design is still evolving.
-
-**Development status:** Playable
-
-[View Skyfall](#)
-
----
-
-## Development Philosophy
-
-Dice & Vice systems are developed as independent game-design projects rather than variations of a single universal ruleset.
-
-Each project may experiment with different approaches to:
-
-- character progression;
-- conflict resolution;
-- resource management;
-- narrative mechanics;
-- combat;
-- exploration;
-- character customization;
-- long-term consequences.
-
-Mechanics may change substantially during development and playtesting.
-
----
-
-## Public and Private Development
-
-The repositories available publicly are intended primarily as **project showcases**.
-
-Public materials may include:
-
-- project descriptions;
-- selected mechanics;
-- development status;
-- visual materials;
-- examples of gameplay concepts;
-- limited rule previews.
-
-Complete rulebooks, balance data, unreleased mechanics, internal design documents, playtest notes, and major setting materials may remain private during development.
-
----
-
-## Project Status
-
-The projects contained within Dice & Vice are personal independent works and may be developed at different speeds.
-
-A project may be marked as:
-
-**Concept** — early design and experimentation.
-
-**Prototype** — fundamental mechanics exist but remain subject to major changes.
-
-**In Development** — active system and content development.
-
-**Playable** — the system can currently be used for complete game sessions.
-
-**On Hold** — development is temporarily paused.
-
-**Archived** — active development has ended.
-
----
-
-## About Dice & Vice
-
-Dice & Vice is focused on experimenting with tabletop RPG systems, game mechanics, worldbuilding, and player-driven storytelling.
-
-The goal is not to create a single universal system, but to explore how different mechanical structures can support different genres and player experiences.
-
-Development is currently maintained independently by **Viktor Kozorez (Kraftshaus)**.
-
----
-
-## Copyright and Licensing
-
-Unless explicitly stated otherwise, original Dice & Vice game concepts, written materials, settings, terminology, artwork, and design documents are:
-
-**Copyright © 2026 Viktor Kozorez. All Rights Reserved.**
-
-Public availability of project materials does not automatically grant permission to reproduce, redistribute, publish, or commercially use complete Dice & Vice works.
-
-Software source code, third-party materials, and fan projects may use separate licenses where applicable. Refer to the individual repository for its specific licensing information.
-
----
-
-## Contact
-
-GitHub: **Kraftshaus**
-
-Project: **Dice & Vice**
+© 2026 Dice & Vice. All rights reserved.
